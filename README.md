@@ -105,12 +105,4 @@ training script's `model.fit()` call is left for you to wire to your own data lo
 **Roadmap:** multi-class output with bounding-box regression (the current head is single-score), and
 an operator-specific `MicroMutableOpResolver` in place of `AllOpsResolver` to reclaim flash.
 
----
 
-<div align="center">
-  <sub>
-    Part of the <b>AI + Robotics</b> engineering portfolio of
-    <a href="https://github.com/divyansh-sachdev">Divyansh Sachdev</a><br>
-    90+ national &amp; international competition wins &middot; IIT / NIT / IIIT podiums
-  </sub>
-</div>
